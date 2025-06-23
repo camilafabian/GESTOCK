@@ -37,7 +37,6 @@ GestockApplication.java
 
 4.	Abrir el frontend.
 Abrir la carpeta Gestock-Frontend en Visual Studio Code y ejecutar los siguientes comandos:
-- rm node_modules
 -	npm install
 -	npm run dev
 hacer Ctrl+click en el enlace que dice “localhost” y eso abrirá una pagina en su navegador predeterminado
