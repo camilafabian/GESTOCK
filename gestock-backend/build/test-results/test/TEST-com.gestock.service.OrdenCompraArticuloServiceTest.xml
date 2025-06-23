@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gestock.service.OrdenCompraArticuloServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-06-23T02:42:44" hostname="DESKTOP-ILQ3TAQ" time="1.408">
+  <properties/>
+  <testcase name="testCrearOrdenCompra()" classname="com.gestock.service.OrdenCompraArticuloServiceTest" time="1.373"/>
+  <testcase name="testCancelarOrdenCompra_Success()" classname="com.gestock.service.OrdenCompraArticuloServiceTest" time="0.008"/>
+  <testcase name="testEnviarOrdenCompra_StockSuperaMaximo()" classname="com.gestock.service.OrdenCompraArticuloServiceTest" time="0.014"/>
+  <testcase name="testEnviarOrdenCompra_Success()" classname="com.gestock.service.OrdenCompraArticuloServiceTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
